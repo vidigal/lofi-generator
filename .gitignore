@@ -168,7 +168,6 @@ client/dist
 # Model
 .idea
 .cache
-__pycache__
 model/dataset/hooktheory
 model/dataset/processed*
 spotify_client_*
@@ -180,3 +179,5 @@ model/*.png
 
 # Checkpoints
 checkpoints
+
+*.tar.gz
